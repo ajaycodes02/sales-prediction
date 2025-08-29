@@ -1,0 +1,6 @@
+[
+    {"ad_spend": 1000, "prev_sales": 5000, "season": "Q1", "target_sales": 6000},
+    {"ad_spend": 2000, "prev_sales": 6000, "season": "Q2", "target_sales": 8000},
+    {"ad_spend": 1500, "prev_sales": 5500, "season": "Q3", "target_sales": 7000},
+    {"ad_spend": 3000, "prev_sales": 7000, "season": "Q4", "target_sales": 9000}
+]
